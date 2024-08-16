@@ -1,6 +1,15 @@
 {
+  "name": "ticdesk",
   "private": true,
-  "workspaces":[
+  "workspaces": [
     "packages/*"
-  ]
+  ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.13"
+  },
+  "packageManager": "npm@10.8.2"
 }
