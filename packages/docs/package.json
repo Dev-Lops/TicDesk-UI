@@ -1,5 +1,5 @@
 {
-  "name": "@desk-ui/docs",
+  "name": "@devlops-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@desk-ui/eslint-config": "*",
-    "@desk-ui/react": "*",
+    "@devlops-ui/react": "*",
     "@desk-ui/tokens": "*",
     "@desk-ui/ts-config": "*",
     "@storybook/addon-a11y": "^8.2.9",
