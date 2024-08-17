@@ -1,5 +1,5 @@
 {
-  "extends": "@desk-ui/ts-config/react.json",
+  "extends": "@devlops-ui/ts-config/react.json",
   "include": [
     "src"
   ]

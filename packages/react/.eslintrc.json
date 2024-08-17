@@ -1,3 +1,3 @@
 {
-  "extends":"@desk-ui/eslint-config"
+  "extends":"@devlops-ui/eslint-config"
 }

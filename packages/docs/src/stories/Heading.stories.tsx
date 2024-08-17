@@ -1,5 +1,5 @@
 import { Meta, type StoryObj } from '@storybook/react'
-import { Heading, HeadingProps } from '@desk-ui/react'
+import { Heading, HeadingProps } from '@devlops-ui/react'
 
 export default {
   title: 'Typography/Heading',
