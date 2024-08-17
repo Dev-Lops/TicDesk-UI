@@ -20,7 +20,7 @@ const config: StorybookConfig = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = 'TicDesk-UI'
+      config.base = '/TicDesk-UI/'
     }
 
     return config
