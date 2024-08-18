@@ -1,6 +1,5 @@
-import { colors } from '@desk-ui/tokens'
+import { colors } from '@devlops-ui/tokens'
 import { getContrast } from 'polished'
-import React from 'react'
 
 export function ColorsGrid() {
   return Object.entries(colors).map(([key, color]) => {

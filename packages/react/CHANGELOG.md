@@ -1,5 +1,11 @@
 # @desk-ui/react
 
+## 6.0.0
+
+### Major Changes
+
+- Update docs
+
 ## 5.0.0
 
 ### Major Changes
