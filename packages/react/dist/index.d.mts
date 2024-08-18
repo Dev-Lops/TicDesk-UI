@@ -27,6 +27,11 @@ declare const Box: _stitches_react_types_styled_component.StyledComponent<"div",
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;
@@ -241,6 +246,11 @@ declare const Text: _stitches_react_types_styled_component.StyledComponent<"p", 
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;
@@ -455,6 +465,11 @@ declare const Heading: _stitches_react_types_styled_component.StyledComponent<"h
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;
@@ -667,6 +682,11 @@ declare const AvatarImage: _stitches_react_types_styled_component.StyledComponen
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;
@@ -886,6 +906,11 @@ declare const Button: _stitches_react_types_styled_component.StyledComponent<"bu
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;
@@ -1098,6 +1123,11 @@ declare const Input: _stitches_react_types_styled_component.StyledComponent<"inp
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;
@@ -1315,6 +1345,11 @@ declare const TextArea: _stitches_react_types_styled_component.StyledComponent<"
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;
@@ -1526,6 +1561,11 @@ declare const StyledSelect: _stitches_react_types_styled_component.StyledCompone
         blueDark700: string;
         blueDark800: string;
         blueDark900: string;
+        blueLight100: string;
+        blueLight500: string;
+        blueLight700: string;
+        blueLight800: string;
+        blueLight900: string;
     };
     fonts: {
         default: string;

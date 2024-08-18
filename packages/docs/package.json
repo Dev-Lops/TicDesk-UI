@@ -11,10 +11,10 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "@desk-ui/eslint-config": "*",
+    "@devlops-ui/eslint-config": "*",
     "@devlops-ui/react": "*",
-    "@desk-ui/tokens": "*",
-    "@desk-ui/ts-config": "*",
+    "@devlops-ui/tokens": "*",
+    "@devlops-ui/ts-config": "*",
     "@storybook/addon-a11y": "^8.2.9",
     "@storybook/addon-docs": "^8.2.9",
     "@storybook/mdx1-csf": "^1.0.0",

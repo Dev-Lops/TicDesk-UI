@@ -19,7 +19,12 @@ var colors = {
   blueDark500: "#00072d",
   blueDark700: "#040f16",
   blueDark800: "#001233",
-  blueDark900: "#00171f"
+  blueDark900: "#00171f",
+  blueLight100: "#151570",
+  blueLight500: "#0d0d99",
+  blueLight700: "#090966",
+  blueLight800: "#050594",
+  blueLight900: "#290096"
 };
 
 // src/space.ts

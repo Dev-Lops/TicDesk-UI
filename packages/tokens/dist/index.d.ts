@@ -19,6 +19,11 @@ declare const colors: {
     blueDark700: string;
     blueDark800: string;
     blueDark900: string;
+    blueLight100: string;
+    blueLight500: string;
+    blueLight700: string;
+    blueLight800: string;
+    blueLight900: string;
 };
 
 declare const space: {
