@@ -14,8 +14,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@desk-ui/ts-config": "*",
-    "@desk-ui/eslint-config": "*",
+    "@devlops-ui/ts-config": "*",
+    "@devlops-ui/eslint-config": "*",
     "tsup": "^8.2.4",
     "typescript": "^5.5.4"
   }
